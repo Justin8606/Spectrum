@@ -1,0 +1,143 @@
+body{
+    background-color: black;
+}
+div{
+    width: 90px;
+    height: 122px;
+    border: 2px solid white;
+    margin: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#s1{
+    margin-top: -6px;
+    margin-left: 504px;
+    background-color: darkslategrey;
+    
+}
+#s2
+{
+    margin-top: -135px;
+    margin-left: 602px;
+    background-color: darkcyan;
+
+}
+#s3
+{
+    margin-top: -135px;
+    margin-left: 699px;
+    background-color: lightseagreen;
+}
+#s4
+{
+    margin-top: -135px;
+    margin-left: 796px;
+    background-color: rgb(55, 236, 14);
+}
+
+
+#s5 {
+    margin-top: -135px;
+    margin-left: 894px;
+    background-color: whitesmoke;
+}
+#s6
+{
+    margin-top: 24px;
+    margin-left: 413px;
+    background-color: darkgoldenrod;
+}
+#s7
+{
+    margin-top: -135px;
+    margin-left: 511px;
+    background-color:deeppink ;
+}
+#s8
+{
+    margin-top: -135px;
+    margin-left: 609px;
+    background-color:hotpink ;
+}
+#s9
+{
+    margin-top: -135px;
+    margin-left: 707px;
+    background-color: darkorchid;
+}
+#s10
+{
+    margin-top: -135px;
+    margin-left: 805px;
+    background-color: indigo;
+}
+#s11
+{
+    margin-top: -135px;
+    margin-left: 903px;
+    background-color: blueviolet;
+}
+#s12
+{
+    margin-top: -135px;
+    margin-left: 1000px;
+    background-color: darkgray;
+}
+#s13
+{
+    margin-top: 27px;
+    margin-left: 317px;
+    background-color: skyblue;
+}
+#s14
+{
+    margin-top: -135px;
+    margin-left: 415px;
+    background-color: lightgreen;
+}
+#s15
+{
+    margin-top: -135px;
+    margin-left: 513px;
+    background-color: lightsalmon;
+}
+#s16
+{
+    margin-top: -135px;
+    margin-left: 611px;
+    background-color: darkmagenta;
+}
+#s17
+{
+    margin-top: -135px;
+    margin-left: 709px;
+    background-color: rgb(32, 1, 1);
+}
+#s18
+{
+    margin-top: -135px;
+    margin-left: 806px;
+    background-color: aqua;
+}
+#s19
+{
+    margin-top: -135px;
+    margin-left: 903px;
+    background-color: cadetblue;
+}
+#s20
+{
+    margin-top: -135px;
+    margin-left: 1000px;
+    background-color: blueviolet;
+}
+#s21
+{
+    margin-top: -135px;
+    margin-left: 1097px;
+    background-color: rgb(71, 2, 71);
+}
+
+/* next is monday(gallery.html) */
